@@ -1,0 +1,6 @@
+[submodule "am-server"]
+	path = am-server
+	url = https://github.com/ruanxuefeng/am-server.git
+[submodule "vue-typescript-element-admin"]
+	path = vue-typescript-element-admin
+	url = https://github.com/ruanxuefeng/vue-typescript-element-admin.git
